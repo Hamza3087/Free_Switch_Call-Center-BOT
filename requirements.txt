@@ -1,0 +1,16 @@
+glances
+psutil
+requests
+mysql-connector-python
+numpy
+scipy
+pydub
+soundfile
+torch
+torchaudio
+nemo_toolkit[asr]
+transformers
+bitsandbytes
+accelerate
+cuda-python==12.4.0
+google-generativeai>=0.8.0
